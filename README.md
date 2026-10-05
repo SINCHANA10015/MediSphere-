@@ -1,4 +1,4 @@
-# MedSync — AI-Powered Hospital Management System
+# MediSphere — AI-Powered Hospital Management System
 
 *A smart, AI-integrated backend platform for streamlining hospital operations*
 
