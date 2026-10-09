@@ -21,6 +21,6 @@ public class DoctorAvailabilityController {
 
 	private ResponseEntity<String> markDoctorAvailable(@RequestParam("staffId") String staffId, @RequestBody List<LocalDate> dates)
 	{
-	return	doctorAvailabilityService.markDoctorAvailable(staffId, dates);	
+		return	doctorAvailabilityService.markDoctorAvailable(staffId, dates);
 	}
 }
